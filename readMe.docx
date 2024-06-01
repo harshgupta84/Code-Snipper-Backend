@@ -1,0 +1,21 @@
+@desc    Get logged in user notes
+@route   GET /api/notes
+ @access  Private
+
+//@description     Fetch single Note
+//@route           GET /api/notes/:id
+//@access          Public
+
+
+//@description     Create single Note
+//@route           GET /api/notes/create
+//@access          Private
+
+//@description     Delete single Note
+//@route           GET /api/notes/:id
+//@access          Private
+
+
+// @desc    Update a note
+// @route   PUT /api/notes/:id
+// @access  Private
